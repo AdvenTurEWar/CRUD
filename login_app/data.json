@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullname": "Sikharin Raksachat",
+      "email": "a@test.com",
+      "password": "1q2w3e4r",
+      "gender": "Female"
+    },
+    {
+      "id": 2,
+      "fullname": "lovelove",
+      "email": "dlswlev@gmail.com",
+      "password": "sdfsdfsdf2",
+      "gender": null
+    },
+    {
+      "id": 3,
+      "fullname": "salalaw",
+      "email": "idsjv@gmail.com",
+      "password": "sdf33asd",
+      "gender": "Female"
+    },
+    {
+      "id": 4,
+      "fullname": "Supanat",
+      "email": "supant@gmail.com",
+      "password": "1z2x3c2",
+      "gender": null
+    },
+    {
+      "id": 5,
+      "fullname": "pplp",
+      "email": "uijol@gmail.com",
+      "password": "123456789",
+      "gender": "Male"
+    }
+  ]
+}
